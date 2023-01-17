@@ -71,6 +71,14 @@ GET /transactions
 ]
 ```
 
+## Questions
+
+Please include a file called Questions.txt in your submissions with answers to the following
+
+1. What would you add to your solution if you spent more time on the coding test?
+2. How would you improve the APIs that you just used?
+3. What is your favourite framework / library / package that you love but couldn't use in the task? What do you like about it so much?
+
 ## Submission
 
 Please upload your finished assignment to either GitHub or GitLab and share the repository link with us via email. Don't squash your commits, it's nice to see how the project develops. Have fun!
